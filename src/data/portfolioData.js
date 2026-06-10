@@ -111,8 +111,8 @@ export const projectsData = [
       'Fully interactive Shopping Cart (Add, edit, remove, calculate total)',
       'Responsive design styled with a premium glassmorphic UI'
     ],
-    liveUrl: 'https://perfo-elite.web.app', // Mock or placeholder but interactive
-    githubUrl: 'https://github.com/junaidkm/perfo-elite-perfumes',
+    liveUrl: 'https://perfo-elite.vercel.app/',
+    githubUrl: 'https://github.com/junaidkm/PERFO-ELITE.git',
     imageType: 'perfume_store'
   },
   {
@@ -129,8 +129,8 @@ export const projectsData = [
       'Persistent storage logic utilizing HTML5 Local Storage api',
       'Sleek animations to display credit/debit alerts'
     ],
-    liveUrl: 'https://junaidk-expenses.web.app',
-    githubUrl: 'https://github.com/junaidkm/expense-tracker',
+    liveUrl: 'https://expense-tracker-app-mu-hazel.vercel.app/',
+    githubUrl: 'https://github.com/junaidkm/Expense-Tracker-App.git',
     imageType: 'expense_tracker'
   }
 ];
